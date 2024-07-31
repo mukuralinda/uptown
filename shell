@@ -1,0 +1,3 @@
+mkdir uptown-website
+cd uptown-website
+npm init -y
